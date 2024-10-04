@@ -1,2 +1,2 @@
 # Parallel-Code-for-Conjugate-Gradient-Method
-Parallel Code for Conjugate Gradient Method [In C]
+Parallel Code for Conjugate Gradient Method (In C)
