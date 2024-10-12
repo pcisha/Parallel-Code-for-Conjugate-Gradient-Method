@@ -1,6 +1,4 @@
-CSCI-B 673
-Aissngment: ex3 [Final]
-Prachi Shah [pracshah@indiana.edu]
+Developer: Prachi Shah [pracshah@indiana.edu]
 05/08/2014
 ================================
 DESCRIPTION:
@@ -41,9 +39,7 @@ Speedup = 1.8379521369934082e-01 / 1.1747908592224121e-01
 	= 1.56449305215903626199 
 
 REFERENCE:
-1. B673: Final. http://www.cs.indiana.edu/classes/b673/assignments/final.html
 2. http://www.cdac.in/HTmL/events/beta-test/archives/promcore-2008/mpi-1x-promcore-2008/matrix-comp-solver-codes/conjugate-gradient-mpi-code-clang.c
-3. Akshay Dorwat
 4. Basic MPI. http://www.cs.earlham.edu/~lemanal/slides/mpi-slides.pdf
 5. Message Passing Interface (MPI). https://computing.llnl.gov/tutorials/mpi/
 6. Conjugate gradient method. http://en.wikipedia.org/wiki/Conjugate_gradient_method
